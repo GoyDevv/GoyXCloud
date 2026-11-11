@@ -1,4 +1,4 @@
-package com.betterxcloud.warzonekbm;
+package com.goydevv.xcloud;
 
 import android.content.Context;
 import android.content.SharedPreferences;

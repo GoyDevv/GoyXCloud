@@ -1,4 +1,4 @@
-package com.betterxcloud.warzonekbm;
+package com.goydevv.xcloud;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
